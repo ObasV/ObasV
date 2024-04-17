@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Olusola Obajuluwa
+I write Javascript and Python
+I provide solution for website and software development as well as testing.
+I am also a data scientist
+I look foward to working with you 
+
 <!--
 **ObasV/ObasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
