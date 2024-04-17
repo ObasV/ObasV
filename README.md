@@ -2,7 +2,7 @@
 
 I am Olusola Obajuluwa. <br/>
 I write Javascript and Python. <br/>
-I provide solution for website and software development as well as testing. <br/>
+I provide solutions for website and software development as well as testing. <br/>
 I am also a data scientist. <br/>
 I look foward to working with you. 
 
